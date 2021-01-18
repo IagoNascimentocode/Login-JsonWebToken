@@ -12,12 +12,12 @@ para resolver isso vamos usar o hapi/joi que basicamente vai fazer o mesmo servi
  </h6>
 
 <h3>Tecnologias:</h3>
-<h6>Java Script
-Node
+<h6>Java Script,
+Node,
 insomnia
 </h6>
 <h3>Bibliotecas:<h3>
-<h6>mongoose
-bcrypt
-jsonwebtoken
+<h6>mongoose,
+bcrypt,
+jsonwebtoken,
 @hapi/joi</h6>
